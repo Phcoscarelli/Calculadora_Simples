@@ -1,2 +1,1 @@
-Calculadora simples feita em python
-somente + - * /
+Calculadora simples feita em python, somente + - * /
