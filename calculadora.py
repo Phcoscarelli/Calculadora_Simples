@@ -38,7 +38,7 @@ while True:
     elif operador =='*':
         print(f'{num_1_float} * {num_2_float} =', num_1_float * num_2_float)
 
-    sair = input('Quer sair? [s]im:').lower().startswith('s')
+    sair = input('Deseja sair? [s]im:').lower().startswith('s')
     print(sair)
 
     if sair is True:
